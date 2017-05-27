@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/nhatdo/Desktop/Shoponline/node_modules/react-native/React/Views/RCTTabBar.m \
+  /Users/nhatdo/Desktop/Shoponline/node_modules/react-native/React/Views/RCTTabBar.h \
+  /Users/nhatdo/Desktop/Shoponline/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/nhatdo/Desktop/Shoponline/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/nhatdo/Desktop/Shoponline/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/nhatdo/Desktop/Shoponline/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/nhatdo/Desktop/Shoponline/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/nhatdo/Desktop/Shoponline/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/nhatdo/Desktop/Shoponline/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/nhatdo/Desktop/Shoponline/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/nhatdo/Desktop/Shoponline/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/nhatdo/Desktop/Shoponline/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/nhatdo/Desktop/Shoponline/node_modules/react-native/React/Views/RCTTabBarItem.h \
+  /Users/nhatdo/Desktop/Shoponline/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/nhatdo/Desktop/Shoponline/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/nhatdo/Desktop/Shoponline/node_modules/react-native/React/Views/RCTView.h \
+  /Users/nhatdo/Desktop/Shoponline/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/nhatdo/Desktop/Shoponline/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/nhatdo/Desktop/Shoponline/node_modules/react-native/React/Views/RCTViewControllerProtocol.h \
+  /Users/nhatdo/Desktop/Shoponline/node_modules/react-native/React/Views/RCTWrapperViewController.h \
+  /Users/nhatdo/Desktop/Shoponline/node_modules/react-native/React/Views/UIView+React.h
